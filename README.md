@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100%  height="250" src="https://gifdb.com/images/thumbnail/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif"/>
+  <img width=100%  height="250" src="[https://gifdb.com/images/thumbnail/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif](https://knoxhmis.sworpswebapp.sworps.utk.edu/wp-content/uploads/sites/16/2021/05/gwc-header.jpg)"/>
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Loukili+Imane;+a+Software+Engineering+Studentat+ENSET;Welcome+to+my+Github+Account👋)
@@ -17,12 +17,7 @@ let's programming </h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/najwa-zraidi-15a326184/"><img title="linkedin.com/in/najwa.zraidi/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-	<a href="https://www.instagram.com/najwa_zraidi/"><img title="instagram.com/najwa_zraidi/" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-    </a>
-	<a href="https://facebook.com/najwa.eloe"><img title="najwa el oe" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-    </a
-	<a href="https://discord.com/channels/@AWJAN"><img title="Awjan" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
+	
   </p>
 </div>
 
