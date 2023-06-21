@@ -15,7 +15,7 @@ let's programming </h3>
 <hr>
 <div> 
   <p align="center">
-    <a href="https://www.linkedin.com/in/najwa-zraidi-15a326184/"><img title="linkedin.com/in/najwa.zraidi/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="[https://www.linkedin.com/in/imane-loukili-2115il/]/"><img title="linkedin.com/in/najwa.zraidi/" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 	
   </p>
