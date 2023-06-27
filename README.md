@@ -7,10 +7,6 @@
 <div id="header" align="center">
 </div>
 
-
-<div align="center">
-<img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47kmgtslznwpiz2h6y0eq18isf9ehdxn31nc1mjly6&ep=v1_gifs_search&rid=200w.webp&ct=g" width="50px"/> 
-</div>
 <hr>
 <div> 
   <p align="center">
