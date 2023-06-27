@@ -6,9 +6,8 @@
 
 <div id="header" align="center">
 </div>
-<h3 align="center">Unlock the power of technology through programming and unleash your creativity.
-let's programming </h3>
-<h6 align="center"> Let's work on programming together</h6>
+
+
 <div align="center">
 <img src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47kmgtslznwpiz2h6y0eq18isf9ehdxn31nc1mjly6&ep=v1_gifs_search&rid=200w.webp&ct=g" width="50px"/> 
 </div>
