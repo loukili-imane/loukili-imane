@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100%  height="250" src="[https://gifdb.com/images/thumbnail/pixel-art-super-mario-computer-amwdq1xi8bgz0omx.gif](https://knoxhmis.sworpswebapp.sworps.utk.edu/wp-content/uploads/sites/16/2021/05/gwc-header.jpg)"/>
+  <img width=100%  height="250" src="[](https://knoxhmis.sworpswebapp.sworps.utk.edu/wp-content/uploads/sites/16/2021/05/gwc-header.jpg)"/>
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Loukili+Imane;+a+Software+Engineering+Studentat+ENSET;Welcome+to+my+Github+Account👋)
