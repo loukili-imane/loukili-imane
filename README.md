@@ -5,7 +5,6 @@
 
 <div id="header" align="center">
 </div>
-
 <hr>
 <div> 
   <p align="center">
