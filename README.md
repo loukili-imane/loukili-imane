@@ -15,7 +15,7 @@
 
 ### :woman_technologist: About Me : 
 # Hi there👋, I am Loukili Imane. 
-#I am a software engineering student at Enset Mohammedia :woman_student:.<br  />
+# A software engineering student at Enset Mohammedia :woman_student:.<br  />
 I have a strong passion for web and mobile development and consider myself a perpetual learner in this field. Being an ardent coder, I enjoy experimenting with cutting-edge technologies and frameworks to develop solid, responsive, and dynamic web applications. From front-end design to back-end development to full-stack integration, I am always eager to explore new avenues and opportunities.<br  />
 
 
