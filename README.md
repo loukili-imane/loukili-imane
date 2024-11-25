@@ -14,9 +14,7 @@
 </div>
 
 ### :woman_technologist: About Me : 
-# Hi there👋, I am Loukili Imane. 
-# A software engineering student at Enset Mohammedia :woman_student:.<br  />
-
+# Hello there👋, I am Loukili Imane. 
 
 ### :hammer_and_wrench: Skills :
 
